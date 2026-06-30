@@ -94,7 +94,7 @@ const Hero = () => {
             transition={{ delay: 0.6, duration: 0.8 }}
             className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 bg-clip-text text-transparent mb-8"
           >
-            Sarah! 🎉
+            Amrutha Bala! 🎉
           </motion.h2>
 
           {/* Divider */}
